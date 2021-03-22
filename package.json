@@ -1,0 +1,20 @@
+{
+  "name": "gmadminv2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@svitejs/vite-plugin-svelte": "^0.11.1",
+    "@tailwindcss/jit": "^0.1.6",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "svelte": "^3.35.0",
+    "svelte-preprocess": "^4.6.9",
+    "tailwindcss": "^2.0.4",
+    "typescript": "^4.2.3",
+    "vite": "^2.1.0"
+  }
+}
